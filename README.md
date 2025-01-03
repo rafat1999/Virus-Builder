@@ -2,7 +2,7 @@
 This tool will generate a virus that can only destroy Windows computer. You can also configure to auto run in usb drive
 More scripts will be added with time
 # Telegram
-* Contact me on [LinkdeIn](https://www.linkedin.com/in/shihab-hossen-rafat-01923321a/)
+* Contact me on [Linkedin](https://www.linkedin.com/in/shihab-hossen-rafat-01923321a/)
 
 
 # Service
